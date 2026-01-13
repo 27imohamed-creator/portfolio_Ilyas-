@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   css/style.css
+#	new file:   html/contact.html
+#	new file:   html/experience.html
+#	new file:   html/projects.html
+#	new file:   html/resume.html
+#	new file:   html/skills.html
+#	new file:   images/randomguy.jpg
+#	new file:   index.html
+#
+# Changes not staged for commit:
+#	modified:   css/style.css
+#	modified:   html/contact.html
+#	modified:   html/experience.html
+#	modified:   html/projects.html
+#	modified:   html/resume.html
+#	modified:   html/skills.html
+#	modified:   index.html
+#
